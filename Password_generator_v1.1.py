@@ -42,18 +42,6 @@ while True:
     
  
 
-
-
-#print (result)
-#for rt in result:
-#    rt.strip(",")
-#    print (rt)
-#print (result)
-#def rslts(pswrd):
-#    print (str(result), str(e))
-
-#rslts("password")
-
   
 
     
